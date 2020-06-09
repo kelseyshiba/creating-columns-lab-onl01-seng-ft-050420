@@ -52,8 +52,7 @@ img:hover {
   grid-template-columns: 195px 195px 195px;
   grid-template-rows: 125px 125px 125px;
   grid-gap: 5px;
-  align-content: center;
-  justify-content: center;
+  margin: 0 auto;
 }
 
 .small {
