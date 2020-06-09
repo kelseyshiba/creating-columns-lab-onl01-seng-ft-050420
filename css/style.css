@@ -47,12 +47,8 @@ img:hover {
 }
 
 .column {
-  display: grid;
-  grid-auto-flow: column;
-  grid-template-columns: 195px 195px 195px;
-  grid-template-rows: 125px 125px 125px;
-  grid-gap: 5px;
-  margin: 0 auto;
+  width: 30%;
+  display: inline-block;
 }
 
 .small {
